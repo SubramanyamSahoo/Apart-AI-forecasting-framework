@@ -1,0 +1,44 @@
+{
+  "consensus_metrics": {
+    "mean_timeline": 2038.6,
+    "median_timeline": 2036.0,
+    "std_timeline": 9.221713506718803,
+    "min_timeline": 2027.0,
+    "max_timeline": 2055.0,
+    "coefficient_of_variation": 0.004523552195977045
+  },
+  "top_parameters": [
+    {
+      "parameter": "tai_threshold_flop",
+      "mean_contribution": 59.04769410048675,
+      "policy_relevant": false
+    },
+    {
+      "parameter": "algorithmic_efficiency_gain",
+      "mean_contribution": 21.04716844797238,
+      "policy_relevant": false
+    },
+    {
+      "parameter": "compute_growth_rate",
+      "mean_contribution": 19.841651470114016,
+      "policy_relevant": true
+    },
+    {
+      "parameter": "deployment_speed_years",
+      "mean_contribution": 0.04702007755526376,
+      "policy_relevant": true
+    },
+    {
+      "parameter": "data_availability_multiplier",
+      "mean_contribution": 0.010489036322352428,
+      "policy_relevant": false
+    }
+  ],
+  "uncertainty_classification": {
+    "high_leverage_policy": 1,
+    "empirically_resolvable": 1,
+    "fundamental_uncertainty": 1,
+    "low_impact": 4
+  },
+  "n_forecasts_analyzed": 5
+}

@@ -1,0 +1,377 @@
+[
+  {
+    "name": "AI 2027",
+    "author": "Aschenbrenner",
+    "year": 2024,
+    "predicted_year": 2027.0,
+    "confidence_interval": [
+      2026.0,
+      2028.0
+    ],
+    "parameters": {
+      "compute_growth_rate": {
+        "value": 4.0,
+        "lower_bound": 2.0,
+        "upper_bound": 6.0,
+        "unit": "OOM/year",
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true
+      },
+      "algorithmic_efficiency_gain": {
+        "value": 0.5,
+        "lower_bound": 0.2,
+        "upper_bound": 0.8,
+        "unit": "OOM/year",
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      },
+      "scaling_law_exponent": {
+        "value": 0.35,
+        "lower_bound": 0.2,
+        "upper_bound": 0.5,
+        "unit": "dimensionless",
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      },
+      "tai_threshold_flop": {
+        "value": 1e+28,
+        "lower_bound": 1e+27,
+        "upper_bound": 1e+29,
+        "unit": "FLOP",
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false
+      },
+      "qualitative_jump_probability": {
+        "value": 0.7,
+        "lower_bound": 0.3,
+        "upper_bound": 0.9,
+        "unit": "probability",
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false
+      },
+      "deployment_speed_years": {
+        "value": 1.0,
+        "lower_bound": 0.5,
+        "upper_bound": 3.0,
+        "unit": "years",
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true
+      },
+      "data_availability_multiplier": {
+        "value": 2.0,
+        "lower_bound": 1.0,
+        "upper_bound": 3.0,
+        "unit": "multiplier",
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      }
+    }
+  },
+  {
+    "name": "Biological Anchors",
+    "author": "Cotra",
+    "year": 2022,
+    "predicted_year": 2036.0,
+    "confidence_interval": [
+      2030.0,
+      2050.0
+    ],
+    "parameters": {
+      "compute_growth_rate": {
+        "value": 2.5,
+        "lower_bound": 2.0,
+        "upper_bound": 6.0,
+        "unit": "OOM/year",
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true
+      },
+      "algorithmic_efficiency_gain": {
+        "value": 0.3,
+        "lower_bound": 0.2,
+        "upper_bound": 0.8,
+        "unit": "OOM/year",
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      },
+      "scaling_law_exponent": {
+        "value": 0.28,
+        "lower_bound": 0.2,
+        "upper_bound": 0.5,
+        "unit": "dimensionless",
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      },
+      "tai_threshold_flop": {
+        "value": 1e+30,
+        "lower_bound": 1e+27,
+        "upper_bound": 1e+29,
+        "unit": "FLOP",
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false
+      },
+      "qualitative_jump_probability": {
+        "value": 0.4,
+        "lower_bound": 0.3,
+        "upper_bound": 0.9,
+        "unit": "probability",
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false
+      },
+      "deployment_speed_years": {
+        "value": 2.0,
+        "lower_bound": 0.5,
+        "upper_bound": 3.0,
+        "unit": "years",
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true
+      },
+      "data_availability_multiplier": {
+        "value": 1.5,
+        "lower_bound": 1.0,
+        "upper_bound": 3.0,
+        "unit": "multiplier",
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      }
+    }
+  },
+  {
+    "name": "Epoch 2040",
+    "author": "Epoch AI",
+    "year": 2024,
+    "predicted_year": 2040.0,
+    "confidence_interval": [
+      2035.0,
+      2050.0
+    ],
+    "parameters": {
+      "compute_growth_rate": {
+        "value": 2.0,
+        "lower_bound": 2.0,
+        "upper_bound": 6.0,
+        "unit": "OOM/year",
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true
+      },
+      "algorithmic_efficiency_gain": {
+        "value": 0.25,
+        "lower_bound": 0.2,
+        "upper_bound": 0.8,
+        "unit": "OOM/year",
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      },
+      "scaling_law_exponent": {
+        "value": 0.25,
+        "lower_bound": 0.2,
+        "upper_bound": 0.5,
+        "unit": "dimensionless",
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      },
+      "tai_threshold_flop": {
+        "value": 5e+29,
+        "lower_bound": 1e+27,
+        "upper_bound": 1e+29,
+        "unit": "FLOP",
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false
+      },
+      "qualitative_jump_probability": {
+        "value": 0.3,
+        "lower_bound": 0.3,
+        "upper_bound": 0.9,
+        "unit": "probability",
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false
+      },
+      "deployment_speed_years": {
+        "value": 2.5,
+        "lower_bound": 0.5,
+        "upper_bound": 3.0,
+        "unit": "years",
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true
+      },
+      "data_availability_multiplier": {
+        "value": 1.2,
+        "lower_bound": 1.0,
+        "upper_bound": 3.0,
+        "unit": "multiplier",
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      }
+    }
+  },
+  {
+    "name": "Metaculus Median",
+    "author": "Metaculus Community",
+    "year": 2024,
+    "predicted_year": 2035.0,
+    "confidence_interval": [
+      2028.0,
+      2045.0
+    ],
+    "parameters": {
+      "compute_growth_rate": {
+        "value": 3.0,
+        "lower_bound": 2.0,
+        "upper_bound": 6.0,
+        "unit": "OOM/year",
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true
+      },
+      "algorithmic_efficiency_gain": {
+        "value": 0.35,
+        "lower_bound": 0.2,
+        "upper_bound": 0.8,
+        "unit": "OOM/year",
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      },
+      "scaling_law_exponent": {
+        "value": 0.3,
+        "lower_bound": 0.2,
+        "upper_bound": 0.5,
+        "unit": "dimensionless",
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      },
+      "tai_threshold_flop": {
+        "value": 3e+28,
+        "lower_bound": 1e+27,
+        "upper_bound": 1e+29,
+        "unit": "FLOP",
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false
+      },
+      "qualitative_jump_probability": {
+        "value": 0.5,
+        "lower_bound": 0.3,
+        "upper_bound": 0.9,
+        "unit": "probability",
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false
+      },
+      "deployment_speed_years": {
+        "value": 1.5,
+        "lower_bound": 0.5,
+        "upper_bound": 3.0,
+        "unit": "years",
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true
+      },
+      "data_availability_multiplier": {
+        "value": 1.8,
+        "lower_bound": 1.0,
+        "upper_bound": 3.0,
+        "unit": "multiplier",
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      }
+    }
+  },
+  {
+    "name": "Conservative 2050+",
+    "author": "Skeptical Researchers",
+    "year": 2024,
+    "predicted_year": 2055.0,
+    "confidence_interval": [
+      2045.0,
+      2070.0
+    ],
+    "parameters": {
+      "compute_growth_rate": {
+        "value": 1.5,
+        "lower_bound": 2.0,
+        "upper_bound": 6.0,
+        "unit": "OOM/year",
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true
+      },
+      "algorithmic_efficiency_gain": {
+        "value": 0.2,
+        "lower_bound": 0.2,
+        "upper_bound": 0.8,
+        "unit": "OOM/year",
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      },
+      "scaling_law_exponent": {
+        "value": 0.2,
+        "lower_bound": 0.2,
+        "upper_bound": 0.5,
+        "unit": "dimensionless",
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      },
+      "tai_threshold_flop": {
+        "value": 1e+31,
+        "lower_bound": 1e+27,
+        "upper_bound": 1e+29,
+        "unit": "FLOP",
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false
+      },
+      "qualitative_jump_probability": {
+        "value": 0.2,
+        "lower_bound": 0.3,
+        "upper_bound": 0.9,
+        "unit": "probability",
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false
+      },
+      "deployment_speed_years": {
+        "value": 5.0,
+        "lower_bound": 0.5,
+        "upper_bound": 3.0,
+        "unit": "years",
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true
+      },
+      "data_availability_multiplier": {
+        "value": 1.0,
+        "lower_bound": 1.0,
+        "upper_bound": 3.0,
+        "unit": "multiplier",
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true
+      }
+    }
+  }
+]

@@ -1,0 +1,8 @@
+parameter,mean_contribution,std_contribution,max_contribution,policy_relevant,empirically_resolvable,category
+tai_threshold_flop,59.029974947359165,33.35776181301737,97.00308476648786,False,False,definition
+algorithmic_efficiency_gain,21.040394201364688,18.32376696242832,55.367134417894334,False,True,algorithm
+compute_growth_rate,19.86622059203161,15.237843273326737,43.01533486723048,True,True,compute
+deployment_speed_years,0.04694373614101106,0.01882350163937132,0.08719172093757152,True,True,deployment
+data_availability_multiplier,0.010501504034501015,0.008165006908235909,0.026056472791086523,False,True,data
+qualitative_jump_probability,0.004727033749106818,0.0032536504901039143,0.008919207230009676,False,False,discontinuity
+scaling_law_exponent,0.0012379853199273748,0.0007783026584531541,0.00221640714146057,False,True,scaling

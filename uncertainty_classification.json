@@ -1,0 +1,17 @@
+{
+  "high_leverage_policy": [
+    "compute_growth_rate"
+  ],
+  "empirically_resolvable": [
+    "algorithmic_efficiency_gain"
+  ],
+  "fundamental_uncertainty": [
+    "tai_threshold_flop"
+  ],
+  "low_impact": [
+    "deployment_speed_years",
+    "data_availability_multiplier",
+    "qualitative_jump_probability",
+    "scaling_law_exponent"
+  ]
+}

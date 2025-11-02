@@ -1,0 +1,842 @@
+[
+  {
+    "forecast_a": "AI 2027",
+    "forecast_b": "Biological Anchors",
+    "timeline_difference": 9.0,
+    "attribution": [
+      {
+        "parameter": "tai_threshold_flop",
+        "contribution_years": 1.8461300159276948,
+        "contribution_percent": 37.3403352916165,
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 1e+28,
+        "forecast_b_value": 1e+30,
+        "normalized_difference": 10.0
+      },
+      {
+        "parameter": "algorithmic_efficiency_gain",
+        "contribution_years": 1.6619789680647843,
+        "contribution_percent": 33.615645366108616,
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.5,
+        "forecast_b_value": 0.3,
+        "normalized_difference": 0.33333333333333326
+      },
+      {
+        "parameter": "compute_growth_rate",
+        "contribution_years": 1.4331065302420036,
+        "contribution_percent": 28.98640826277396,
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 4.0,
+        "forecast_b_value": 2.5,
+        "normalized_difference": 0.375
+      },
+      {
+        "parameter": "deployment_speed_years",
+        "contribution_years": 0.0019906501480510793,
+        "contribution_percent": 0.040263439376007945,
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 1.0,
+        "forecast_b_value": 2.0,
+        "normalized_difference": 0.39999999999999997
+      },
+      {
+        "parameter": "data_availability_multiplier",
+        "contribution_years": 0.0004912861651479,
+        "contribution_percent": 0.009936889586585623,
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 2.0,
+        "forecast_b_value": 1.5,
+        "normalized_difference": 0.25
+      },
+      {
+        "parameter": "qualitative_jump_probability",
+        "contribution_years": 0.00029721223193768806,
+        "contribution_percent": 0.006011496643017381,
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 0.7,
+        "forecast_b_value": 0.4,
+        "normalized_difference": 0.49999999999999983
+      },
+      {
+        "parameter": "scaling_law_exponent",
+        "contribution_years": 6.918000590773437e-05,
+        "contribution_percent": 0.001399253895329106,
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.35,
+        "forecast_b_value": 0.28,
+        "normalized_difference": 0.23333333333333317
+      }
+    ]
+  },
+  {
+    "forecast_a": "AI 2027",
+    "forecast_b": "Epoch 2040",
+    "timeline_difference": 13.0,
+    "attribution": [
+      {
+        "parameter": "algorithmic_efficiency_gain",
+        "contribution_years": 3.044520401955791,
+        "contribution_percent": 42.15275705220748,
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.5,
+        "forecast_b_value": 0.25,
+        "normalized_difference": 0.4166666666666666
+      },
+      {
+        "parameter": "compute_growth_rate",
+        "contribution_years": 2.6906527366906037,
+        "contribution_percent": 37.2532997475453,
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 4.0,
+        "forecast_b_value": 2.0,
+        "normalized_difference": 0.5
+      },
+      {
+        "parameter": "tai_threshold_flop",
+        "contribution_years": 1.4804907962195886,
+        "contribution_percent": 20.498062292827335,
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 1e+28,
+        "forecast_b_value": 5e+29,
+        "normalized_difference": 4.94949494949495
+      },
+      {
+        "parameter": "deployment_speed_years",
+        "contribution_years": 0.004825050064260833,
+        "contribution_percent": 0.06680499266579668,
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 1.0,
+        "forecast_b_value": 2.5,
+        "normalized_difference": 0.6000000000000001
+      },
+      {
+        "parameter": "data_availability_multiplier",
+        "contribution_years": 0.0012920058228909233,
+        "contribution_percent": 0.01788840289175678,
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 2.0,
+        "forecast_b_value": 1.2,
+        "normalized_difference": 0.4
+      },
+      {
+        "parameter": "qualitative_jump_probability",
+        "contribution_years": 0.000646570520853882,
+        "contribution_percent": 0.008952060253944948,
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 0.7,
+        "forecast_b_value": 0.3,
+        "normalized_difference": 0.6666666666666665
+      },
+      {
+        "parameter": "scaling_law_exponent",
+        "contribution_years": 0.0001614574823868016,
+        "contribution_percent": 0.002235451608384637,
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.35,
+        "forecast_b_value": 0.25,
+        "normalized_difference": 0.33333333333333326
+      }
+    ]
+  },
+  {
+    "forecast_a": "AI 2027",
+    "forecast_b": "Metaculus Median",
+    "timeline_difference": 8.0,
+    "attribution": [
+      {
+        "parameter": "algorithmic_efficiency_gain",
+        "contribution_years": 1.1062696074896274,
+        "contribution_percent": 55.52713557014792,
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.5,
+        "forecast_b_value": 0.35,
+        "normalized_difference": 0.24999999999999997
+      },
+      {
+        "parameter": "compute_growth_rate",
+        "contribution_years": 0.8542339386373264,
+        "contribution_percent": 42.876676172070454,
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 4.0,
+        "forecast_b_value": 3.0,
+        "normalized_difference": 0.25
+      },
+      {
+        "parameter": "tai_threshold_flop",
+        "contribution_years": 0.030653531405417402,
+        "contribution_percent": 1.538596724097709,
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 1e+28,
+        "forecast_b_value": 3e+28,
+        "normalized_difference": 0.20202020202020207
+      },
+      {
+        "parameter": "deployment_speed_years",
+        "contribution_years": 0.0007893467605492009,
+        "contribution_percent": 0.03961978552798986,
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 1.0,
+        "forecast_b_value": 1.5,
+        "normalized_difference": 0.2
+      },
+      {
+        "parameter": "qualitative_jump_probability",
+        "contribution_years": 0.0001594758309897737,
+        "contribution_percent": 0.008004591310815875,
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 0.7,
+        "forecast_b_value": 0.5,
+        "normalized_difference": 0.3333333333333332
+      },
+      {
+        "parameter": "data_availability_multiplier",
+        "contribution_years": 0.00015855426694537527,
+        "contribution_percent": 0.00795833512581048,
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 2.0,
+        "forecast_b_value": 1.8,
+        "normalized_difference": 0.09999999999999998
+      },
+      {
+        "parameter": "scaling_law_exponent",
+        "contribution_years": 4.0021845033145395e-05,
+        "contribution_percent": 0.0020088217192966245,
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.35,
+        "forecast_b_value": 0.3,
+        "normalized_difference": 0.16666666666666663
+      }
+    ]
+  },
+  {
+    "forecast_a": "AI 2027",
+    "forecast_b": "Conservative 2050+",
+    "timeline_difference": 28.0,
+    "attribution": [
+      {
+        "parameter": "tai_threshold_flop",
+        "contribution_years": 74.44687606718225,
+        "contribution_percent": 83.16281872518617,
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 1e+28,
+        "forecast_b_value": 1e+31,
+        "normalized_difference": 100.9090909090909
+      },
+      {
+        "parameter": "algorithmic_efficiency_gain",
+        "contribution_years": 7.941928805870298,
+        "contribution_percent": 8.87173808360881,
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.5,
+        "forecast_b_value": 0.2,
+        "normalized_difference": 0.4999999999999999
+      },
+      {
+        "parameter": "compute_growth_rate",
+        "contribution_years": 7.091385081445927,
+        "contribution_percent": 7.92161609986946,
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 4.0,
+        "forecast_b_value": 1.5,
+        "normalized_difference": 0.625
+      },
+      {
+        "parameter": "deployment_speed_years",
+        "contribution_years": 0.03248951550599267,
+        "contribution_percent": 0.036293258108718106,
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 1.0,
+        "forecast_b_value": 5.0,
+        "normalized_difference": 1.6
+      },
+      {
+        "parameter": "data_availability_multiplier",
+        "contribution_years": 0.0041000948425277415,
+        "contribution_percent": 0.004580117557081948,
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 2.0,
+        "forecast_b_value": 1.0,
+        "normalized_difference": 0.5
+      },
+      {
+        "parameter": "qualitative_jump_probability",
+        "contribution_years": 0.002037515402269423,
+        "contribution_percent": 0.0022760595608578124,
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 0.7,
+        "forecast_b_value": 0.2,
+        "normalized_difference": 0.8333333333333331
+      },
+      {
+        "parameter": "scaling_law_exponent",
+        "contribution_years": 0.000606633843443612,
+        "contribution_percent": 0.0006776561088921664,
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.35,
+        "forecast_b_value": 0.2,
+        "normalized_difference": 0.4999999999999999
+      }
+    ]
+  },
+  {
+    "forecast_a": "Biological Anchors",
+    "forecast_b": "Epoch 2040",
+    "timeline_difference": 4.0,
+    "attribution": [
+      {
+        "parameter": "tai_threshold_flop",
+        "contribution_years": 0.5487841675110874,
+        "contribution_percent": 58.1596111799993,
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 1e+30,
+        "forecast_b_value": 5e+29,
+        "normalized_difference": 5.050505050505051
+      },
+      {
+        "parameter": "compute_growth_rate",
+        "contribution_years": 0.21016881593535386,
+        "contribution_percent": 22.273486264003903,
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 2.5,
+        "forecast_b_value": 2.0,
+        "normalized_difference": 0.125
+      },
+      {
+        "parameter": "algorithmic_efficiency_gain",
+        "contribution_years": 0.18377001422244973,
+        "contribution_percent": 19.475766989040704,
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.3,
+        "forecast_b_value": 0.25,
+        "normalized_difference": 0.0833333333333333
+      },
+      {
+        "parameter": "deployment_speed_years",
+        "contribution_years": 0.0006017304807419574,
+        "contribution_percent": 0.06377080985012062,
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 2.0,
+        "forecast_b_value": 2.5,
+        "normalized_difference": 0.20000000000000007
+      },
+      {
+        "parameter": "data_availability_multiplier",
+        "contribution_years": 0.00018032364666104332,
+        "contribution_percent": 0.01911052431401271,
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 1.5,
+        "forecast_b_value": 1.2,
+        "normalized_difference": 0.15000000000000002
+      },
+      {
+        "parameter": "qualitative_jump_probability",
+        "contribution_years": 5.9907172465735006e-05,
+        "contribution_percent": 0.006348903747172909,
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 0.4,
+        "forecast_b_value": 0.3,
+        "normalized_difference": 0.16666666666666669
+      },
+      {
+        "parameter": "scaling_law_exponent",
+        "contribution_years": 1.79783597664769e-05,
+        "contribution_percent": 0.0019053290447766324,
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.28,
+        "forecast_b_value": 0.25,
+        "normalized_difference": 0.10000000000000009
+      }
+    ]
+  },
+  {
+    "forecast_a": "Biological Anchors",
+    "forecast_b": "Metaculus Median",
+    "timeline_difference": 1.0,
+    "attribution": [
+      {
+        "parameter": "tai_threshold_flop",
+        "contribution_years": 0.2291468881144671,
+        "contribution_percent": 69.77588548325437,
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 1e+30,
+        "forecast_b_value": 3e+28,
+        "normalized_difference": 9.7979797979798
+      },
+      {
+        "parameter": "compute_growth_rate",
+        "contribution_years": 0.05333167261980612,
+        "contribution_percent": 16.23964746792066,
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 2.5,
+        "forecast_b_value": 3.0,
+        "normalized_difference": 0.125
+      },
+      {
+        "parameter": "algorithmic_efficiency_gain",
+        "contribution_years": 0.045747334628632653,
+        "contribution_percent": 13.930194769291566,
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.3,
+        "forecast_b_value": 0.35,
+        "normalized_difference": 0.08333333333333331
+      },
+      {
+        "parameter": "deployment_speed_years",
+        "contribution_years": 0.00012556123828868853,
+        "contribution_percent": 0.03823375763929483,
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 2.0,
+        "forecast_b_value": 1.5,
+        "normalized_difference": 0.19999999999999996
+      },
+      {
+        "parameter": "data_availability_multiplier",
+        "contribution_years": 3.7659917465372676e-05,
+        "contribution_percent": 0.011467553018044902,
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 1.5,
+        "forecast_b_value": 1.8,
+        "normalized_difference": 0.15000000000000002
+      },
+      {
+        "parameter": "qualitative_jump_probability",
+        "contribution_years": 1.2510465436960676e-05,
+        "contribution_percent": 0.003809472652473992,
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 0.4,
+        "forecast_b_value": 0.5,
+        "normalized_difference": 0.16666666666666663
+      },
+      {
+        "parameter": "scaling_law_exponent",
+        "contribution_years": 2.5007850310769697e-06,
+        "contribution_percent": 0.0007614962235904207,
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.28,
+        "forecast_b_value": 0.3,
+        "normalized_difference": 0.06666666666666654
+      }
+    ]
+  },
+  {
+    "forecast_a": "Biological Anchors",
+    "forecast_b": "Conservative 2050+",
+    "timeline_difference": 19.0,
+    "attribution": [
+      {
+        "parameter": "tai_threshold_flop",
+        "contribution_years": 53.02299263327099,
+        "contribution_percent": 93.41987848080005,
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 1e+30,
+        "forecast_b_value": 1e+31,
+        "normalized_difference": 90.9090909090909
+      },
+      {
+        "parameter": "compute_growth_rate",
+        "contribution_years": 1.9422461400240008,
+        "contribution_percent": 3.4219946738161284,
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 2.5,
+        "forecast_b_value": 1.5,
+        "normalized_difference": 0.25
+      },
+      {
+        "parameter": "algorithmic_efficiency_gain",
+        "contribution_years": 1.770319650891064,
+        "contribution_percent": 3.1190817123860457,
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.3,
+        "forecast_b_value": 0.2,
+        "normalized_difference": 0.1666666666666666
+      },
+      {
+        "parameter": "deployment_speed_years",
+        "contribution_years": 0.019603763726601057,
+        "contribution_percent": 0.03453937875162911,
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 2.0,
+        "forecast_b_value": 5.0,
+        "normalized_difference": 1.2000000000000002
+      },
+      {
+        "parameter": "data_availability_multiplier",
+        "contribution_years": 0.0016398542626282536,
+        "contribution_percent": 0.002889218022839893,
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 1.5,
+        "forecast_b_value": 1.0,
+        "normalized_difference": 0.25
+      },
+      {
+        "parameter": "qualitative_jump_probability",
+        "contribution_years": 0.0006559071217531722,
+        "contribution_percent": 0.0011556262776919127,
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 0.4,
+        "forecast_b_value": 0.2,
+        "normalized_difference": 0.33333333333333326
+      },
+      {
+        "parameter": "scaling_law_exponent",
+        "contribution_years": 0.0002616019743163395,
+        "contribution_percent": 0.00046090994561545894,
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.28,
+        "forecast_b_value": 0.2,
+        "normalized_difference": 0.2666666666666667
+      }
+    ]
+  },
+  {
+    "forecast_a": "Epoch 2040",
+    "forecast_b": "Metaculus Median",
+    "timeline_difference": 5.0,
+    "attribution": [
+      {
+        "parameter": "tai_threshold_flop",
+        "contribution_years": 0.6184815349203756,
+        "contribution_percent": 38.454933888234144,
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 5e+29,
+        "forecast_b_value": 3e+28,
+        "normalized_difference": 4.747474747474747
+      },
+      {
+        "parameter": "compute_growth_rate",
+        "contribution_years": 0.5314723890500714,
+        "contribution_percent": 33.045021444291855,
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 2.0,
+        "forecast_b_value": 3.0,
+        "normalized_difference": 0.25
+      },
+      {
+        "parameter": "algorithmic_efficiency_gain",
+        "contribution_years": 0.4563876086484956,
+        "contribution_percent": 28.37652270450829,
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.25,
+        "forecast_b_value": 0.35,
+        "normalized_difference": 0.16666666666666663
+      },
+      {
+        "parameter": "deployment_speed_years",
+        "contribution_years": 0.0013917046313831189,
+        "contribution_percent": 0.08653113564445719,
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 2.5,
+        "forecast_b_value": 1.5,
+        "normalized_difference": 0.4
+      },
+      {
+        "parameter": "data_availability_multiplier",
+        "contribution_years": 0.0004202995749839509,
+        "contribution_percent": 0.026132699937988516,
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 1.2,
+        "forecast_b_value": 1.8,
+        "normalized_difference": 0.30000000000000004
+      },
+      {
+        "parameter": "qualitative_jump_probability",
+        "contribution_years": 0.00013972398782781953,
+        "contribution_percent": 0.008687529717780454,
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 0.3,
+        "forecast_b_value": 0.5,
+        "normalized_difference": 0.3333333333333333
+      },
+      {
+        "parameter": "scaling_law_exponent",
+        "contribution_years": 3.491033373633355e-05,
+        "contribution_percent": 0.002170597665490093,
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.25,
+        "forecast_b_value": 0.3,
+        "normalized_difference": 0.16666666666666663
+      }
+    ]
+  },
+  {
+    "forecast_a": "Epoch 2040",
+    "forecast_b": "Conservative 2050+",
+    "timeline_difference": 15.0,
+    "attribution": [
+      {
+        "parameter": "tai_threshold_flop",
+        "contribution_years": 48.086092416365766,
+        "contribution_percent": 97.0236895226955,
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 5e+29,
+        "forecast_b_value": 1e+31,
+        "normalized_difference": 95.95959595959596
+      },
+      {
+        "parameter": "compute_growth_rate",
+        "contribution_years": 0.7612059158458815,
+        "contribution_percent": 1.5358912053484692,
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 2.0,
+        "forecast_b_value": 1.5,
+        "normalized_difference": 0.125
+      },
+      {
+        "parameter": "algorithmic_efficiency_gain",
+        "contribution_years": 0.6989291568907123,
+        "contribution_percent": 1.4102348955567086,
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.25,
+        "forecast_b_value": 0.2,
+        "normalized_difference": 0.0833333333333333
+      },
+      {
+        "parameter": "deployment_speed_years",
+        "contribution_years": 0.013980557204908588,
+        "contribution_percent": 0.028208681001945544,
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 2.5,
+        "forecast_b_value": 5.0,
+        "normalized_difference": 1.0
+      },
+      {
+        "parameter": "data_availability_multiplier",
+        "contribution_years": 0.0005598662130840639,
+        "contribution_percent": 0.0011296464924238254,
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 1.2,
+        "forecast_b_value": 1.0,
+        "normalized_difference": 0.09999999999999998
+      },
+      {
+        "parameter": "qualitative_jump_probability",
+        "contribution_years": 0.0002796902726962807,
+        "contribution_percent": 0.000564333278438034,
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 0.3,
+        "forecast_b_value": 0.2,
+        "normalized_difference": 0.1666666666666666
+      },
+      {
+        "parameter": "scaling_law_exponent",
+        "contribution_years": 0.00013962160909214,
+        "contribution_percent": 0.0002817156265041919,
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.25,
+        "forecast_b_value": 0.2,
+        "normalized_difference": 0.16666666666666663
+      }
+    ]
+  },
+  {
+    "forecast_a": "Metaculus Median",
+    "forecast_b": "Conservative 2050+",
+    "timeline_difference": 20.0,
+    "attribution": [
+      {
+        "parameter": "tai_threshold_flop",
+        "contribution_years": 59.58654893518606,
+        "contribution_percent": 90.98257112472254,
+        "category": "definition",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 3e+28,
+        "forecast_b_value": 1e+31,
+        "normalized_difference": 100.70707070707071
+      },
+      {
+        "parameter": "compute_growth_rate",
+        "contribution_years": 3.100636619903515,
+        "contribution_percent": 4.73435526714499,
+        "category": "compute",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 3.0,
+        "forecast_b_value": 1.5,
+        "normalized_difference": 0.375
+      },
+      {
+        "parameter": "algorithmic_efficiency_gain",
+        "contribution_years": 2.7786135336063267,
+        "contribution_percent": 4.242658921637461,
+        "category": "algorithm",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.35,
+        "forecast_b_value": 0.2,
+        "normalized_difference": 0.24999999999999992
+      },
+      {
+        "parameter": "deployment_speed_years",
+        "contribution_years": 0.02259509013976986,
+        "contribution_percent": 0.034500393670176044,
+        "category": "deployment",
+        "policy_relevant": true,
+        "empirically_resolvable": true,
+        "forecast_a_value": 1.5,
+        "forecast_b_value": 5.0,
+        "normalized_difference": 1.4
+      },
+      {
+        "parameter": "data_availability_multiplier",
+        "contribution_years": 0.0025818817548023346,
+        "contribution_percent": 0.003942269599258734,
+        "category": "data",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 1.8,
+        "forecast_b_value": 1.0,
+        "normalized_difference": 0.4
+      },
+      {
+        "parameter": "qualitative_jump_probability",
+        "contribution_years": 0.0009689569365928354,
+        "contribution_percent": 0.0014794982252830757,
+        "category": "discontinuity",
+        "policy_relevant": false,
+        "empirically_resolvable": false,
+        "forecast_a_value": 0.5,
+        "forecast_b_value": 0.2,
+        "normalized_difference": 0.4999999999999999
+      },
+      {
+        "parameter": "scaling_law_exponent",
+        "contribution_years": 0.00032256579110489657,
+        "contribution_percent": 0.000492525000290353,
+        "category": "scaling",
+        "policy_relevant": false,
+        "empirically_resolvable": true,
+        "forecast_a_value": 0.3,
+        "forecast_b_value": 0.2,
+        "normalized_difference": 0.33333333333333326
+      }
+    ]
+  }
+]

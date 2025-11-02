@@ -1,0 +1,22 @@
+forecast,parameter,sensitivity_range,baseline
+AI 2027,algorithmic_efficiency_gain,3800.625,2027.0
+AI 2027,compute_growth_rate,2702.666666666667,2027.0
+Biological Anchors,algorithmic_efficiency_gain,2290.4999999999995,2036.0
+Epoch 2040,algorithmic_efficiency_gain,1912.5,2040.0
+Biological Anchors,compute_growth_rate,1696.6666666666665,2036.0
+Epoch 2040,compute_growth_rate,1360.0,2040.0
+AI 2027,tai_threshold_flop,144.78571428571445,2027.0
+Epoch 2040,tai_threshold_flop,137.3785016586205,2040.0
+Biological Anchors,tai_threshold_flop,135.73333333333335,2036.0
+Biological Anchors,deployment_speed_years,2.5,2036.0
+AI 2027,deployment_speed_years,2.5,2027.0
+Epoch 2040,deployment_speed_years,2.5,2040.0
+AI 2027,data_availability_multiplier,1.0,2027.0
+Biological Anchors,data_availability_multiplier,1.0,2036.0
+Epoch 2040,data_availability_multiplier,1.0,2040.0
+Biological Anchors,qualitative_jump_probability,0.2999999999999545,2036.0
+AI 2027,qualitative_jump_probability,0.2999999999999545,2027.0
+Epoch 2040,qualitative_jump_probability,0.2999999999999545,2040.0
+Epoch 2040,scaling_law_exponent,0.15000000000009095,2040.0
+AI 2027,scaling_law_exponent,0.15000000000009095,2027.0
+Biological Anchors,scaling_law_exponent,0.14999999999986358,2036.0

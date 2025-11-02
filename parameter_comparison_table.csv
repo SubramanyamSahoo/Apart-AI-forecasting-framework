@@ -1,0 +1,8 @@
+Parameter,AI 2027,Biological Anchors,Epoch 2040,Metaculus Median,Conservative 2050+
+compute_growth_rate,4.0,2.5,2.0,3.0,1.5
+algorithmic_efficiency_gain,0.5,0.3,0.25,0.35,0.2
+scaling_law_exponent,0.35,0.28,0.25,0.3,0.2
+tai_threshold_flop,1e+28,1e+30,5e+29,3e+28,1e+31
+qualitative_jump_probability,0.7,0.4,0.3,0.5,0.2
+deployment_speed_years,1.0,2.0,2.5,1.5,5.0
+data_availability_multiplier,2.0,1.5,1.2,1.8,1.0

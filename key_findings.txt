@@ -1,0 +1,10 @@
+1. MODERATE CONSENSUS: Forecasts show 0.5% variation (CV), indicating reasonable agreement on timelines despite 28 year range.
+
+2. CONCENTRATED DISAGREEMENT: Top 3 parameters account for 99.9% of total disagreement. Focus on: tai_threshold_flop, algorithmic_efficiency_gain, compute_growth_rate.
+
+3. POLICY LEVERAGE: 2 policy-relevant parameters account for 19.9% of disagreement. Governance interventions can materially affect timelines.
+
+4. RESOLVABLE UNCERTAINTY: 1 parameters accounting for 21.1% of disagreement can be resolved through better measurement and benchmarking.
+
+5. FUNDAMENTAL UNCERTAINTY: 1 parameters represent irreducible epistemic uncertainty requiring robust decision-making frameworks.
+
